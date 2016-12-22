@@ -1,0 +1,4 @@
+[plugin]
+description = "Dokku Connect Plugin"
+version = "0.3.3"
+[plugin.config]
