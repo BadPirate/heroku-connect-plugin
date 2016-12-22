@@ -1,17 +1,17 @@
 {
-  "name": "heroku-connect-plugin",
-  "description": "Heroku Connect plugin for Heroku Toolbelt",
+  "name": “connect”,
+  "description": "Connect plugin for Dokku”,
   "version": "0.3.3",
   "author": "Heroku (@heroku)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/heroku-connect-plugin.git"
+    "url": "https://github.com/BadPirate/heroku-connect-plugin.git"
   },
   "bugs": {
     "url": "https://github.com/heroku/heroku-connect-plugin/issues"
   },
   "keywords": [
-    "heroku-plugin"
+    “dokku-plugin"
   ],
   "license": "ISC",
   "main": "index.js",
